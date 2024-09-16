@@ -1,1 +1,4 @@
-This Repository includes all the assignments and projetcs done in EN3551 - Digital Signal Processing Module
+## This Repository includes all the assignments and projects done in EN3551 - Digital Signal Processing Module
+###  Assignment 1 : Detecting Harmonics in Noisy Data and Signal Interpolation using DFT
+This assignment focuses on the practical applications of the Discrete Fourier Transform (DFT) for harmonic detection and signal interpolation. It involves detecting sinusoidal components from a noisy signal by utilizing DFT averaging, which helps cancel out noise effects, making the harmonic peaks more visible. 
+The second part of the assignment delves into frequency-domain interpolation using zero insertion, where the DFT is employed to interpolate a down-sampled music signal. By zero-padding and applying the Inverse DFT, the interpolated signals are compared with the original signal to assess accuracy.
